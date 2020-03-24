@@ -6,16 +6,17 @@ This is a daily journal that I will be keeping intact throughout my journey as a
 #### 03.23.20 Mo
 Today, I created this repo here.   
 This is what my tasks are for today:
-  - [ ] Read "Demystifying AI"
-  - [ ] Read "What does an ML Engineer Do?"
-  - [ ] Read Git Refreshers
-  - [ ] Watch AirBnb video
-  - [ ] Watch Ted Talk video
+  - [x] Read "Demystifying AI"
+  - [x] Read "What does an ML Engineer Do?"
+  - [x] Watch AirBnb video
+  - [x] Watch Ted Talk video
+  - [x] Setup/organize "notes" repo
+
+#### 03.24.20 Tu
+
+Tasks for Today:
   - [ ] Watch Math Refresher
   - [ ] Watch Statistics Refresher
-  - [ ] Setup/organize "notes" repo
-
-Tasks for tomorrow and throughout the week:
   - [ ] Join Piazza
   - [ ] Dick sync
   - [ ] Write week 1 article
