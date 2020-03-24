@@ -5,27 +5,25 @@ This is a daily journal that I will be keeping intact throughout my journey as a
 
 #### 03.23.20 Mo
 Today, I created this repo here.   
-Moving forward, these are the tasks that I will be taking from
-  - [ ] Join Piazza
-  - [ ] Install PyTorch
-  - [ ] Install Anaconda + Jupyter Notebook + Keras + Tensorflow
-  - [ ] Install Domino
-  - [ ] Install Datacamp
-  - [ ] Install Paperspace
+This is what my tasks are for today:
   - [ ] Read "Demystifying AI"
-  - [ ] Read "What does a ML Engineer Do?"
+  - [ ] Read "What does an ML Engineer Do?"
+  - [ ] Read Git Refreshers
   - [ ] Watch AirBnb video
   - [ ] Watch Ted Talk video
-  - [ ] Read Git Refreshers
-  - [ ] Math Refresher
-  - [ ] Statistics Refresher
-  - [ ] Write week 1 article
+  - [ ] Watch Math Refresher
+  - [ ] Watch Statistics Refresher
   - [ ] Setup/organize "notes" repo
 
-Tasks for tomorrow and throughout the next week:
+Tasks for tomorrow and throughout the week:
+  - [ ] Join Piazza
   - [ ] Dick sync
   - [ ] Write week 1 article
   - [ ] Week 2 Tasks 
   - [ ] Submit Capstone Idea
   - [ ] Engage with Piazza Community
-
+  - [ ] Install PyTorch
+  - [ ] Install Anaconda + Jupyter Notebook + Keras + Tensorflow
+  - [ ] Install Domino
+  - [ ] Install Datacamp
+  - [ ] Install Paperspace
