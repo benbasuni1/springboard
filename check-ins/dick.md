@@ -4,4 +4,3 @@
 - [ ] List of ML Projects > 1.1.4 
 - [ ] Capstone Project Guidelines > 2.3.1
 - [ ] Capstone FAQs > 2.3.2
-
