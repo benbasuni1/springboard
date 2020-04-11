@@ -17,34 +17,32 @@ Tasks:
 #### 03.24.20 Tu
 
 Tasks:
-  - [ ] Watch Math Refresher
-  - [ ] Watch Statistics Refresher
-  - [ ] Join Piazza
-  - [ ] Dick sync
-  - [ ] Write week 1 article
-  - [ ] Week 2 Tasks 
-  - [ ] Submit Capstone Idea
-  - [ ] Engage with Piazza Community
-  - [ ] Install PyTorch
-  - [ ] Install Domino
-  - [ ] Install Datacamp
-  - [ ] Install Paperspace
+  - [x] Join Slack
+  - [x] Dick sync
+  - [x] Engage with Slack
+  - [x] Install PyTorch
 
 #### 03.25.20 We
 
 Tasks: 
-  - [ ] 1.35 Rachel 
-  - [ ] 5 Orientation
+  - [x] 1.35 Rachel 
+  - [x] 5 Orientation
+  - [x] Submit Capstone Idea
 
 #### 03.26.20 Th
 
 Tasks: 
-  - [ ]
+  - [ ] Watch Math Refresher
+  - [ ] Watch Statistics Refresher
+  - [ ] Write week 1 article
+  - [ ] Week 2 Tasks 
 
 #### 03.27.20 F
 
 Tasks: 
-  - [ ]
+  - [ ] Install Domino
+  - [ ] Install Datacamp
+  - [ ] Install Paperspace
 
 #### 03.28.20 Sa
 
