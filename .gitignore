@@ -2,3 +2,5 @@ attachments/
 api*
 .ipynb*
 app/strata_data/
+elbertsoftware
+.DS_Store
