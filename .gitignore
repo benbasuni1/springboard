@@ -4,3 +4,7 @@ api*
 app/strata_data/
 elbert
 .DS_Store
+flask-tutorial/
+capstone-project/
+udemy/
+data/
