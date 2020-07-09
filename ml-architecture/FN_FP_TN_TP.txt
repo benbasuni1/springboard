@@ -1,0 +1,6 @@
+True Positive: ALARM + FIRE
+False Positive: ALARM + NO FIRE (TYPE 1)
+False Negative: NO ALARM + FIRE (TYPE 2)
+True Negative: NO ALARM + NO FIRE
+
+Precision = (True Positive) / (True Positive + False Positive)

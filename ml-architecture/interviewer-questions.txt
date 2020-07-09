@@ -1,0 +1,16 @@
+1. I am being promoted to Director of Reporting and Analytics, what are your ideas/tips of incorporating Machine Learning in those areas ? 
+  - Recommender system for APIs
+
+2. Example of starting with a big project of data. SparkML? Tooling? Share story.
+
+3. 
+
+Intro
+- Ben Basuni
+    Software Engineer at DigitalML. Work with providing holistic API catalogs for Fortune 200 companies. Clients includes Wells Fargo, Bank of America, CNA, Mitsubishi Financial Group
+
+Continously learning:
+  * Reading O'Reilly book on Hands-On Machine Learning
+  * On top of these 2 bootcamps, I completed 2 classes on ML and Python on Udemy. 
+  * After this bootcamp will start thinking about competing in Kaggle and doing more EDA on things that I am interested in.
+  * More focused on smaller scale information gathering projects, rather than large-scale ones, hence my project is something small but fruitful.

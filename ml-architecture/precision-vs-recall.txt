@@ -1,0 +1,12 @@
+Recall 
+  - the ratio of the number of events you can correctly recall, 
+    to the total number of events.
+  - 'Sweetie, do you remember all the birthday surprises from me'
+
+Precision
+  - the ratio of a number of events you can correctly recall, 
+    to the total number of events you can recall
+
+
+Precision = (True Positive) / (True Positive + False Positive)
+Recall = (True Positive) / (True Positive + False Negative)
